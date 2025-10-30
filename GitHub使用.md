@@ -22,4 +22,4 @@
   * .md
 
 ## 常用操作
- * 删除仓库
+ * 删除仓库：Settings -> Danger Zone -> delete this repository
